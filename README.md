@@ -1,2 +1,2 @@
-# Deepl-Learning
+# Deep-Learning
 Apprentissage du Deep Learning
